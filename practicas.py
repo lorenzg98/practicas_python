@@ -4,9 +4,3 @@ def saludo(persona):
 
 saludo("Lorenzo")
 
-#kfjsdkfjdssdkljklfsdjsdfksdfjskdjsdklf
-#sadkfkdsjfksdjfkdsljdkfsdfk
-"""dsfdsklfhdjklhff
-sdklhfsdsdjkfhsdjkfsdfjk
-sdfksdhfsjkdhf
-sdnfkjsdfhfk"""
